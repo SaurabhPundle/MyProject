@@ -1,0 +1,10 @@
+URL=https://kite.zerodha.com/
+UN=ELR321
+PWD=Dhana1111
+PIN=982278
+UN1=ELR3212
+PWD1=Dhana11112
+PasswordError=Password should be minimum 6 characters.
+UserIDError=User ID should be minimum 6 characters.
+CommonError= Invalid username or password.
+URL-VCTC=https://vctcpune.com/selenium/practice.html
